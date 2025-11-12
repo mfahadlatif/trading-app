@@ -1,0 +1,6 @@
+fastapi==0.115.4
+uvicorn[standard]==0.31.1
+ib-insync==0.9.86
+pydantic==2.9.2
+pydantic-settings==2.6.1
+python-dotenv==1.0.1
